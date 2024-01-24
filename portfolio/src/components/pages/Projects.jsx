@@ -33,7 +33,7 @@ const Projects = () => {
         </ul>
         <button type="button" className="btn btn-dark">
           <Link
-            to="https://github.com/Bittu121?tab=repositories"
+            to="https://github.com/Bittu121/portfolio"
             target="_blank"
             id="deployed-link"
           >
