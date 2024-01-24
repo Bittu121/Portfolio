@@ -44,7 +44,6 @@ const Footer = () => {
           </ul>
         </div>
       </div>
-
       <div className="bottom-bar">
         <p>&copy; 2024 Portfolio . All rights reserved</p>
       </div>
