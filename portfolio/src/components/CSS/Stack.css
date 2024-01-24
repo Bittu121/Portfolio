@@ -1,0 +1,26 @@
+.stack-section {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  margin-top: 6vh;
+}
+.stack-list {
+  margin: 0.1vw;
+}
+.stack-list li {
+  padding: 1vw;
+  text-align: center;
+  font-weight: bold;
+}
+.stack-icon {
+  margin-right: 0.1vw;
+}
+@media only screen and (max-width: 480px) {
+  .stack-section {
+    display: flex;
+    flex-direction: column;
+    margin-left: 8vw;
+    margin-right: 8vw;
+    margin-bottom: 2vw;
+  }
+}

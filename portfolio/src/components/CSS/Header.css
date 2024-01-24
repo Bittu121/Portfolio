@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+}
+.header img {
+  margin-left: 8vw;
+}
+.header p {
+  margin-left: 1vw;
+  margin-top: 0.6vw;
+  font-weight: bold;
+  font-size: 2vw;
+}
+#btn-download {
+  margin-right: 6vw;
+}
+@media only screen and (max-width: 600px) {
+  .header {
+    display: flex;
+    flex-direction: column;
+  }
+  .header p {
+    font-size: 4vw;
+  }
+}
+@media only screen and (max-width: 507px) {
+  .header img {
+    margin-left: 40vw;
+  }
+  .header p {
+    margin-left: 14vw;
+  }
+  #btn-download {
+    margin-left: 33vw;
+  }
+}

@@ -1,0 +1,15 @@
+.experience-section {
+  height: 85vh;
+  display: flex;
+  flex-direction: column;
+}
+.experience-section {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 1vw;
+}
+.image-slider {
+  margin-left: 23vw;
+  margin-right: 23vw;
+  margin-bottom: 1vw;
+}
